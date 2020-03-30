@@ -1,0 +1,11 @@
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+D:\Pemrograman\TheCoffeMenchine\TheCoffeMenchine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
